@@ -1,0 +1,73 @@
+nav{
+    background-color: transparent !important;
+    position: fixed !important;
+    color: white;
+    left: 0;
+    right: 0;
+    
+}
+.bta{
+    margin-right: 300px;
+    color: white;
+}
+
+.but{
+    background-color: #CE3232;
+    border: 0;
+    
+
+}
+
+
+.hero{
+    background-image: url(https://templatemo.com/templates/templatemo_515_eatery/images/slider-image1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 630px;
+    width: 100%;
+}
+
+.hero-data{
+    padding-top: 300px;
+}
+
+.butt{
+    height: 35px;
+    background-color: #CE3232;
+    color: white;
+    border: 0;
+}
+.he2{
+    width: 50%;
+}
+
+@media (max-width: 833px) { 
+        .he2{
+            width: 80%;
+        }
+}
+
+@media (max-width: 400px) { 
+        .hero-data h2{
+            font-size: 20px ;
+        }
+}
+@media (max-width: 400px) { 
+        .hero-data h4{
+            font-size: 20px ;
+        }
+}
+@media (max-width: 725px) { 
+        .s h3{
+            width: 100% !important ;
+        }
+}
+
+
+
+.image{
+    width: 100%;
+    padding-top: 50px;
+}
+
